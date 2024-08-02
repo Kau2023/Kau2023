@@ -1,16 +1,16 @@
-## Hi there 👋
+###  Boas vindas ao meu perfil :
 
-<!--
-**Kau2023/Kau2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MEU NOME É KAUÃ GOMES
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO NA ALURA   
+-ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+-UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVLVIDO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCÊ ENTRA EM CONTATO COMIGO
+
+00001104562789SP@AL.EDUCACAO.SP.GOV.BR
+
+@KAU2023
+
+
+![image](https://github.com/user-attachments/assets/90fad8e9-9eea-4801-8201-f31e02809fe8)
